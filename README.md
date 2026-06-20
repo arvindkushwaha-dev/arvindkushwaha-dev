@@ -1,31 +1,54 @@
-# Hi, I'm Arvind Kushwaha 👋
+<h1 align="center">Hi 👋, I'm Arvind Kushwaha</h1>
 
-Senior .NET Developer with 8+ years of experience building web applications and APIs using ASP.NET Core.
+<h3 align="center">Senior .NET Developer | ASP.NET Core | SQL Server | REST APIs</h3>
 
-## 💻 Skills
+---
 
-- ASP.NET Core
-- C#
-- SQL Server
-- Entity Framework Core
-- REST APIs
-- Razor Pages
-- JavaScript
-- jQuery
-- Bootstrap
+## 🚀 About Me
 
-## 🚀 Current Focus
+💻 8+ Years Experience in .NET Development
 
-- Open Source Contributions
-- Bug Fixing Projects
-- AI Assisted Development
-- ML.NET Learning
-- Mobile App Development
+🔹 ASP.NET Core Development
 
-## 📂 Featured Projects
+🔹 SQL Server & Entity Framework
 
-Coming Soon...
+🔹 REST API Development
 
-## 📫 Contact
+🔹 Bug Fixing & Performance Optimization
 
-GitHub: github.com/arvindkushwaha-dev
+🔹 Learning AI & ML.NET
+
+---
+
+## 🛠️ Tech Stack
+
+![C#](https://img.shields.io/badge/C%23-Developer-blue)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET-Core-purple)
+![SQL Server](https://img.shields.io/badge/SQL-Server-red)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-violet)
+![Git](https://img.shields.io/badge/Git-VersionControl-orange)
+
+---
+
+## 📌 Current Focus
+
+✅ Open Source Contributions
+
+✅ Bug Fixing Projects
+
+✅ AI Assisted Development
+
+✅ Mobile App Development
+
+✅ ML.NET Learning
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: github.com/arvindkushwaha-dev
+
+---
+
+⭐ Thanks for visiting my profile!
