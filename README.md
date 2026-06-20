@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Arvind Kushwaha 👋
 
-<!--
-**arvindkushwaha-dev/arvindkushwaha-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior .NET Developer with 8+ years of experience building web applications and APIs using ASP.NET Core.
 
-Here are some ideas to get you started:
+## 💻 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ASP.NET Core
+- C#
+- SQL Server
+- Entity Framework Core
+- REST APIs
+- Razor Pages
+- JavaScript
+- jQuery
+- Bootstrap
+
+## 🚀 Current Focus
+
+- Open Source Contributions
+- Bug Fixing Projects
+- AI Assisted Development
+- ML.NET Learning
+- Mobile App Development
+
+## 📂 Featured Projects
+
+Coming Soon...
+
+## 📫 Contact
+
+GitHub: github.com/arvindkushwaha-dev
